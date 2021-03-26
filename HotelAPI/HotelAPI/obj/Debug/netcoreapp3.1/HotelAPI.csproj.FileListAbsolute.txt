@@ -309,3 +309,4 @@ C:\Users\kaioa\source\repos\CRUD Hotel\HotelAPI\HotelAPI\obj\Debug\netcoreapp3.1
 C:\Users\kaioa\source\repos\CRUD Hotel\HotelAPI\HotelAPI\obj\Debug\netcoreapp3.1\HotelAPI.dll
 C:\Users\kaioa\source\repos\CRUD Hotel\HotelAPI\HotelAPI\obj\Debug\netcoreapp3.1\HotelAPI.pdb
 C:\Users\kaioa\source\repos\CRUD Hotel\HotelAPI\HotelAPI\obj\Debug\netcoreapp3.1\HotelAPI.genruntimeconfig.cache
+C:\Users\kaioa\source\repos\CRUD Hotel\HotelAPI\HotelAPI\obj\Debug\netcoreapp3.1\HotelAPI.csprojAssemblyReference.cache
